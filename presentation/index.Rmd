@@ -42,5 +42,8 @@ We wanted to calculate this for every ward but it took too long
 # Pretty maps 
 
 
+.center[
 
+<img src= "bird.map.tiff", style="width:80%">
+]
 
