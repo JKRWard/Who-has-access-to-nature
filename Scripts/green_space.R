@@ -10,10 +10,10 @@ ward_cent <- st_transform(ward_cent, st_crs(green))
 
 #loop through this 
 for (i in 1:nrow(ward_cent)){
-  ex_ward <- ward_cent[i,]
+  ex_ward <- ward_cent[1,]
   test <- st_intersection(green, ex_ward)
   green_ward <- sum(st_area(test))
-  ward_cent$green_area[i] <- as.numeric(green_ward)
+  ward_cent$green_area[1] <- as.numeric(green_ward)
   print(i)
 }
 # crop the green space data to the ward centroid areas 
