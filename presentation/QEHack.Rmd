@@ -1,0 +1,44 @@
+---
+title: "Who has access to nature "
+author: "Team"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Who has access to nature 
+.center[
+ <iframe src="https://giphy.com/embed/L1VRSg6CslKVZoxWBu" width="321" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/L1VRSg6CslKVZoxWBu">via GIPHY</a></p>
+]
+---
+
+# green space at ward level 
+
+.center[
+
+<img src= "green_area_plot.png", style="width:80%">
+]
+
+???
+We wanted to calculate this for every ward but it took too long 
+
+---
+# working things out at a ward level
+.center[
+<iframe src="https://giphy.com/embed/3og0IxxiLOjM1e5P0s" width="480" height="227" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zootopia-dmv-3og0IxxiLOjM1e5P0s">via GIPHY</a></p>
+]
+---
+# combining this with socioeconomic data 
+
+.center[
+<iframe src="https://giphy.com/embed/uuQhtq9t4QjuM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uuQhtq9t4QjuM">via GIPHY</a></p>
+]
+---
+# Pretty maps 
+
+
